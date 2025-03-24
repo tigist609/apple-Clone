@@ -1,0 +1,56 @@
+*{
+  margin: 0;
+  padding: 0;  
+}
+img {
+  max-width: 100%;
+}
+.fiveM {
+  background-size: initial;
+  background-repeat: no-repeat;
+
+  color: black;
+
+  width: 48.5%;
+
+  text-align: center;
+  background-color: #fafafa;
+  background-position: bottom;
+  margin: 1% 0.5% 0 1%;
+
+  background-image: url(../images/home/macbook-pro.jpg);
+}
+.name8 {
+  text-align: center;
+  padding-top: 30px;
+}
+.mac {
+  font-weight: 700;
+  font-size: 45px;
+  
+}
+.best {
+ 
+  font-size: 15px;
+  padding-bottom: 5px;
+}
+.new {
+  padding: 30px;
+}
+.sixM {
+  width: 48.5%;
+  margin: 1% 1% 0 0.5%;
+  text-align: center;
+  background-color: #fafafa;
+  background-position: center;
+
+  background-image: url(../images/home/new-ipad.jpg);
+}
+
+.pod {
+  font-size: 30px;
+  
+}
+.name10 {
+ 
+}
